@@ -1,24 +1,22 @@
-# Tic TAc Toe
+# Tic Tac Toe
 
 ## 📱 Description
-Jeu de Tic Tac Toe en Kotlin
+Jeu de Tic-Tac-Toe développé en Kotlin pour Android.
 
-## 🛠 Techologies
+## 🛠 Technologies
 - Kotlin
 - Android SDK
-  
 
-## 🚀 Fonctionaloités
-- Permet d'enregistrer le nom des joueurs
-- Execute le processus de la partie de tic tac toe avec les fonctionalités suivante:
-  - selection du carré a jouer
+## 🚀 Fonctionnalités
+- Permet d’enregistrer le nom des joueurs
+- Gère le déroulement complet d’une partie de Tic-Tac-Toe avec les fonctionnalités suivantes :
+  - sélection d’une case à jouer
   - affichage du X ou du O selon le joueur
-  - change le joueur actif a chaque coup
-  - regarde si le conditions de victoire son rencontree apres chaque coup
-  - Si les conditions de victoire sont rencontrée, affiche le joueur gagnant
-  - Si la grille est plein et qu'il n'y a pas de joueur gagnant affiche une partie nulle,
-  - Offre de recommencer une autre partie.   
-
+  - changement du joueur actif à chaque tour
+  - vérification des conditions de victoire après chaque coup
+- Si les conditions de victoire sont remplies, affiche le joueur gagnant
+- Si la grille est pleine et qu’aucun joueur n’a gagné, affiche une partie nulle
+- Permet de recommencer une nouvelle partie
 
 ## 👨‍💻 Mes contributions
-Application dévellopée par moi même
+Application développée entièrement par moi-même.
