@@ -19,7 +19,7 @@ Jeu de Tic-Tac-Toe développé en Kotlin pour Android.
 
 ## 📱 Installation via APK (utilisateur)
 
-1. Télécharger le fichier APK depuis le dépôt (section *Releases* ou dossier fourni)
+1. Télécharger le fichier TicTacToe.apk dans le dossier app/apk
 2. Transférer le fichier sur votre appareil Android
 3. Ouvrir le fichier APK
 4. Autoriser l’installation depuis des sources inconnues si nécessaire
